@@ -10,3 +10,5 @@ CCG4-14
 ##Compte rendu
 Nous avons défini le Sprint Goal, sélectionné les User Stories prioritaires, estimé les tâches en Story Points et réparti les responsabilités entre les membres du groupe. 
 
+##Suivi Jira
+Documentation liée au ticket CCG4-13
